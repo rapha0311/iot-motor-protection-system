@@ -1,4 +1,4 @@
-![Demonstração do funcionamento](src/docs/painel-protecao-motor.gif)
+![Demonstração do funcionamento](src/docs/Painel-protecao-motor.gif)
 
 # ⚡ Sistema IoT para Proteção Preditiva e Diagnóstico de Motores Elétricos
 
