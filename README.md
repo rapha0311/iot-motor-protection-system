@@ -53,6 +53,8 @@ Você pode testar e interagir com este projeto diretamente pelo seu navegador at
 
 ### Esquemático do Circuito (ESP32)
 ![Esquemático no Fritzing/Wokwi](src/docs/diagrama-esquemático-circuito.jpg)
+![Circuito de Força e comando/CadeSimu - Motor em funcionamento](src/docs/motor-ligado.gif)
+![Circuito de Força e comando/CadeSimu - Motor em falha](src/docs/motor-em-falha.gif)
 
 ### Fluxo de Funcionamento
 1. O **ESP32** realiza a leitura dos sensores **DS18B20** e **MPU6050**.
