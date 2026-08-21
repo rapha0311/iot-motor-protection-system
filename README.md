@@ -49,10 +49,10 @@ Você pode testar e interagir com este projeto diretamente pelo seu navegador at
 ## 📐 Diagramas e Arquitetura
 
 ### Arquitetura do Sistema
-![Arquitetura IoT](link-da-sua-imagem-aqui.png)
+![Arquitetura IoT](src/docs/diagrama-arquitetura.jpg)
 
 ### Esquemático do Circuito (ESP32)
-![Esquemático no Fritzing/Wokwi](link-da-sua-imagem-esquematico.png)
+![Esquemático no Fritzing/Wokwi](src/docs/diagrama-esquemático-circuito.jpg)
 
 ### Fluxo de Funcionamento
 1. O **ESP32** realiza a leitura dos sensores **DS18B20** e **MPU6050**.
