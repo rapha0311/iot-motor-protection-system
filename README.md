@@ -50,4 +50,4 @@ Você pode testar e interagir com este projeto diretamente pelo seu navegador at
 
 **Raphael Alves Ferreira**  
 *Transição de Carreira: Eletricista de Infraestrutura → Desenvolvedor / Engenheiro IoT*  
-- [GitHub](https://github.com/SEU_USUARIO_AQUI)
+- [GitHub]((https://github.com/rapha0311))
