@@ -46,6 +46,19 @@ Você pode testar e interagir com este projeto diretamente pelo seu navegador at
 
 ---
 
+## 📐 Diagramas e Arquitetura
+
+### Arquitetura do Sistema
+![Arquitetura IoT](link-da-sua-imagem-aqui.png)
+
+### Esquemático do Circuito (ESP32)
+![Esquemático no Fritzing/Wokwi](link-da-sua-imagem-esquematico.png)
+
+### Fluxo de Funcionamento
+1. O **ESP32** realiza a leitura dos sensores **DS18B20** e **MPU6050**.
+2. Se a temperatura ou a vibração ultrapassarem o limite seguro, o **Relé (GPIO 5)** é acionado para desligar o motor.
+3. As métricas e o status de operação são enviados via **MQTT** para o **Adafruit IO**.
+
 ## 👨‍💻 Autor
 
 **Raphael Alves Ferreira**  
